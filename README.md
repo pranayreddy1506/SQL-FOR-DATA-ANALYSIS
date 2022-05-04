@@ -1,7 +1,7 @@
 # SQL_for_Data_Analysis
 
 Compilation of SQL data analysis related projects and challenges where I practice aggregates and joins.
-They come from the Analyze Data with SQL Skill Path at Code Academy. 
+ 
 
 # Projects and Challenges 
 
